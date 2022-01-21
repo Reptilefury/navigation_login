@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/home_Page">
+
+    <fragment
+        android:id="@+id/login_page"
+        android:name="com.reptilefury.animation_2.Fragment_Login"
+        android:label="fragment_login_page"
+        tools:layout="@layout/fragment_login_page" >
+        <action
+            android:id="@+id/action_login_page_to_welcome_fragment"
+            app:destination="@id/welcome_fragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/home_Page"
+        android:name="com.reptilefury.animation_2.Home_Page"
+        android:label="fragment_home__page"
+        tools:layout="@layout/fragment_home__page" >
+        <action
+            android:id="@+id/action_home_Page_to_login_page"
+            app:destination="@id/login_page"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@android:anim/slide_in_left"
+            app:popExitAnim="@android:anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/tic_tac_toe"
+        android:name="com.reptilefury.animation_2.tic_tac_toe"
+        android:label="fragment_tic_tac_toe"
+        tools:layout="@layout/fragment_tic_tac_toe" />
+    <fragment
+        android:id="@+id/welcome_fragment"
+        android:name="com.reptilefury.animation_2.Welcome_Fragment"
+        android:label="fragment_welcome_fragment"
+        tools:layout="@layout/fragment_welcome_fragment" >
+        <action
+            android:id="@+id/action_welcome_fragment_to_tic_tac_toe"
+            app:destination="@id/tic_tac_toe"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+    </fragment>
+</navigation>

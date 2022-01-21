@@ -1,0 +1,12 @@
+com/reptilefury/animation_2/databinding/FragmentTicTacToeBinding.java
+ com.reptilefury.animation_2.databinding.FragmentTicTacToeBinding
+com/reptilefury/animation_2/databinding/FragmentLoginPageBinding.java
+ com.reptilefury.animation_2.databinding.FragmentLoginPageBinding
+com/reptilefury/animation_2/databinding/FragmentWelcomeFragmentBinding.java
+ com.reptilefury.animation_2.databinding.FragmentWelcomeFragmentBinding
+com/reptilefury/animation_2/BuildConfig.java
+ com.reptilefury.animation_2.BuildConfig
+com/reptilefury/animation_2/databinding/FragmentHomePageBinding.java
+ com.reptilefury.animation_2.databinding.FragmentHomePageBinding
+com/reptilefury/animation_2/databinding/ActivityMainBinding.java
+ com.reptilefury.animation_2.databinding.ActivityMainBinding

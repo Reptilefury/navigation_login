@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/51e83044d7b34e091e1909f5e7652b5f/transformed/appcompat-1.4.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

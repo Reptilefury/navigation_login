@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/layout_fragment_tic_tac_toe.xml.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/layout/fragment_tic_tac_toe.xml"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/anim_slide_out_bottom.xml.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/anim/slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/anim_slide_in_right.xml.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/drawable-v24_tic_tac_toe_o.png.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/drawable-v24/tic_tac_toe_o.png"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/anim_slide_in_top.xml.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/anim/slide_in_top.xml"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/anim_slide_in_bottom.xml.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/navigation_nav_graph.xml.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/drawable-v24_board.png.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/drawable-v24/board.png"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/anim_slide_out_right.xml.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/layout_fragment_welcome_fragment.xml.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/layout/fragment_welcome_fragment.xml"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/anim_slide_out_left.xml.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/layout_fragment_home__page.xml.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/layout/fragment_home__page.xml"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/anim_slide_out_top.xml.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/anim/slide_out_top.xml"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/anim_slide_in_left.xml.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/drawable-v24_tic_tac_toe_x.png.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/drawable-v24/tic_tac_toe_x.png"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/layout_fragment_login_page.xml.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/layout/fragment_login_page.xml"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/reptilefury/StudioProjects/Animation_2/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/reptilefury/StudioProjects/Animation_2/app/src/main/res/drawable/ic_launcher_background.xml"
+    }
+]

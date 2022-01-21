@@ -1,0 +1,289 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.databinding:viewbinding:7.0.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/7c5493e0e5ec5a349c31c3b11e296350/transformed/jetified-viewbinding-7.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/2fd8a884b7a147f10c691214a8610ac9/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/cb6d6bdfaef5381456e650f94e711960/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/69f2686b6d39628b046b4e0ba484372e/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/866a8e8418de3062a2f935e2df2af603/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/3e1eab56586c7c1bc1091eb4d0ff5707/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/4cd45810f21aa27bbfc4d4048019f56f/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/f73dbfa615604eb2a3c3e9972eb16f37/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/bbe474c690476ac6508d648df4b4e37e/transformed/navigation-ui-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.5.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/0485672b532cefac77d6064302fe6a4b/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/235a6c184a6f19f87a071de4f15b85a7/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/51e83044d7b34e091e1909f5e7652b5f/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/f7e53171496ddb97eeb2b303ff6a1367/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/44de92d64a569322acc67a69dbaea722/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/4907d4e35349f0804441af94167de8e7/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/9c0ccc5a9779448e01a5ca25a6c108e2/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/5fc84ea25447a09cd057b08f5e25afc5/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/f5d0f392759793e011ed6fa809f8e452/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/6d0c39aea72b82ad93c7960403c3165e/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/369cd2892eaa81b244be474d46d7de35/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/14881d8988856425cb0907fda31e649d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/42de2934a19d6ef492dd977457cfb062/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/12d3b7dda825aaf8a5a9c450513e5bca/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/333bf8c49d1d3293e97788338ef36ea8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/702b2cd1a9e89723071a56397a6ea3e3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/88f63a84ddfb8a87a714490d2b14dd8a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/084da20e4d1efd4a975434c446a32328/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/491823a403c859bcd86ee8cfa679f9ef/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/ac2e6dd845fa713dcae6d1b21aefcfe1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/768835e94e3bafe726b49d23537608c8/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/8376afbb609a79d15866f9c576bc0ade/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/6b979d6e79c37f3939fd48521bbcc713/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/06449e7a570c115edb00be5d074e24e7/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/14680f0f04d35faa8932e4e59fdbe5ba/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/7d3240291e43b50ce819c3c5efa6ef89/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/b26a02685003f0066dca048fe73ca37b/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.3.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/eff7a8e7db56f3c7c0369c6d542786bf/transformed/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/aadd3f48dbd9a755f4da5682d410d09b/transformed/navigation-common-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/ea52cbf2b2333bdbf3028b5eefcfe260/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/e4fa05ef2a7dcc1a3cb767c81ec824df/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/3c78b4f33b44fcc4c8077d915cb51561/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/58cba7811e711bcfcce4a0683702d8b7/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/5defeb81d73adbdd55b4c68a33a41e80/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/1825a5e1d0da806f81de92df04877568/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/e0e8ea6e7749c6193767885fd65316d6/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/c4ca9b10fea6c1a1d16b3d33b0d5affe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/767a12a0f662314007a1fbbfaec41b1c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/a26fff5b6a0f491f9c25454261bc944f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/f6dc51ba48103ca683d8fe47789d7ab2/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/a58acf7484e45fa17abd9e64257e50ff/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/b8db0cf7dfbf93d2f6ad5348c370ac62/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/6635d4559d313cabc5d86de4efaab377/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/205ff4ef016c1504a4f97799d6c9e0ee/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/57374178d3621fdbcf6777632cc96aac/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/18400880eed36953d4f49feed5538a69/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/a5451a67c5e218bee9466c0db8faa371/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/f6f0e5cf4b5722f0f14ce9d735e05087/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/dd0ae56e9d1937cb8a5feeaf5299b7bc/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/bf50769a661b3fbfd31ff3c0a875720a/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/812735ca79d8c92124d30781661ea1b5/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml
+		ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml
+		ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.google.android.material:material:1.5.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/0485672b532cefac77d6064302fe6a4b/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/0485672b532cefac77d6064302fe6a4b/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/235a6c184a6f19f87a071de4f15b85a7/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/235a6c184a6f19f87a071de4f15b85a7/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/14881d8988856425cb0907fda31e649d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/14881d8988856425cb0907fda31e649d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/ea52cbf2b2333bdbf3028b5eefcfe260/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/ea52cbf2b2333bdbf3028b5eefcfe260/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/c4ca9b10fea6c1a1d16b3d33b0d5affe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/c4ca9b10fea6c1a1d16b3d33b0d5affe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/767a12a0f662314007a1fbbfaec41b1c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/767a12a0f662314007a1fbbfaec41b1c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/a26fff5b6a0f491f9c25454261bc944f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/a26fff5b6a0f491f9c25454261bc944f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/ea52cbf2b2333bdbf3028b5eefcfe260/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:11:9-49
+activity#com.reptilefury.animation_2.MainActivity
+ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:exported
+		ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml
+INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/7c5493e0e5ec5a349c31c3b11e296350/transformed/jetified-viewbinding-7.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/7c5493e0e5ec5a349c31c3b11e296350/transformed/jetified-viewbinding-7.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/2fd8a884b7a147f10c691214a8610ac9/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/2fd8a884b7a147f10c691214a8610ac9/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/cb6d6bdfaef5381456e650f94e711960/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/cb6d6bdfaef5381456e650f94e711960/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/69f2686b6d39628b046b4e0ba484372e/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/69f2686b6d39628b046b4e0ba484372e/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/866a8e8418de3062a2f935e2df2af603/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/866a8e8418de3062a2f935e2df2af603/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/3e1eab56586c7c1bc1091eb4d0ff5707/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/3e1eab56586c7c1bc1091eb4d0ff5707/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/4cd45810f21aa27bbfc4d4048019f56f/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/4cd45810f21aa27bbfc4d4048019f56f/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/f73dbfa615604eb2a3c3e9972eb16f37/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/f73dbfa615604eb2a3c3e9972eb16f37/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/bbe474c690476ac6508d648df4b4e37e/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/bbe474c690476ac6508d648df4b4e37e/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.5.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/0485672b532cefac77d6064302fe6a4b/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/0485672b532cefac77d6064302fe6a4b/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/235a6c184a6f19f87a071de4f15b85a7/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/235a6c184a6f19f87a071de4f15b85a7/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/51e83044d7b34e091e1909f5e7652b5f/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/51e83044d7b34e091e1909f5e7652b5f/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/f7e53171496ddb97eeb2b303ff6a1367/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/f7e53171496ddb97eeb2b303ff6a1367/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/44de92d64a569322acc67a69dbaea722/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/44de92d64a569322acc67a69dbaea722/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/4907d4e35349f0804441af94167de8e7/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/4907d4e35349f0804441af94167de8e7/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/9c0ccc5a9779448e01a5ca25a6c108e2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/9c0ccc5a9779448e01a5ca25a6c108e2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/5fc84ea25447a09cd057b08f5e25afc5/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/5fc84ea25447a09cd057b08f5e25afc5/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/f5d0f392759793e011ed6fa809f8e452/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/f5d0f392759793e011ed6fa809f8e452/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/6d0c39aea72b82ad93c7960403c3165e/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/6d0c39aea72b82ad93c7960403c3165e/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/369cd2892eaa81b244be474d46d7de35/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/369cd2892eaa81b244be474d46d7de35/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/14881d8988856425cb0907fda31e649d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/14881d8988856425cb0907fda31e649d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/42de2934a19d6ef492dd977457cfb062/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/42de2934a19d6ef492dd977457cfb062/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/12d3b7dda825aaf8a5a9c450513e5bca/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/12d3b7dda825aaf8a5a9c450513e5bca/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/333bf8c49d1d3293e97788338ef36ea8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/333bf8c49d1d3293e97788338ef36ea8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/702b2cd1a9e89723071a56397a6ea3e3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/702b2cd1a9e89723071a56397a6ea3e3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/88f63a84ddfb8a87a714490d2b14dd8a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/88f63a84ddfb8a87a714490d2b14dd8a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/084da20e4d1efd4a975434c446a32328/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/084da20e4d1efd4a975434c446a32328/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/491823a403c859bcd86ee8cfa679f9ef/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/491823a403c859bcd86ee8cfa679f9ef/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/ac2e6dd845fa713dcae6d1b21aefcfe1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/ac2e6dd845fa713dcae6d1b21aefcfe1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/768835e94e3bafe726b49d23537608c8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/768835e94e3bafe726b49d23537608c8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/8376afbb609a79d15866f9c576bc0ade/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/8376afbb609a79d15866f9c576bc0ade/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/6b979d6e79c37f3939fd48521bbcc713/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/6b979d6e79c37f3939fd48521bbcc713/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/06449e7a570c115edb00be5d074e24e7/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/06449e7a570c115edb00be5d074e24e7/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/14680f0f04d35faa8932e4e59fdbe5ba/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/14680f0f04d35faa8932e4e59fdbe5ba/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/7d3240291e43b50ce819c3c5efa6ef89/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/7d3240291e43b50ce819c3c5efa6ef89/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/b26a02685003f0066dca048fe73ca37b/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/b26a02685003f0066dca048fe73ca37b/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.3.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/eff7a8e7db56f3c7c0369c6d542786bf/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/eff7a8e7db56f3c7c0369c6d542786bf/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/aadd3f48dbd9a755f4da5682d410d09b/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/aadd3f48dbd9a755f4da5682d410d09b/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/ea52cbf2b2333bdbf3028b5eefcfe260/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/ea52cbf2b2333bdbf3028b5eefcfe260/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/e4fa05ef2a7dcc1a3cb767c81ec824df/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/e4fa05ef2a7dcc1a3cb767c81ec824df/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/3c78b4f33b44fcc4c8077d915cb51561/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/3c78b4f33b44fcc4c8077d915cb51561/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/58cba7811e711bcfcce4a0683702d8b7/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/58cba7811e711bcfcce4a0683702d8b7/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/5defeb81d73adbdd55b4c68a33a41e80/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/5defeb81d73adbdd55b4c68a33a41e80/transformed/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/1825a5e1d0da806f81de92df04877568/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/1825a5e1d0da806f81de92df04877568/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/e0e8ea6e7749c6193767885fd65316d6/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/e0e8ea6e7749c6193767885fd65316d6/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/c4ca9b10fea6c1a1d16b3d33b0d5affe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/c4ca9b10fea6c1a1d16b3d33b0d5affe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/767a12a0f662314007a1fbbfaec41b1c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/767a12a0f662314007a1fbbfaec41b1c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/a26fff5b6a0f491f9c25454261bc944f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/a26fff5b6a0f491f9c25454261bc944f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/f6dc51ba48103ca683d8fe47789d7ab2/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/f6dc51ba48103ca683d8fe47789d7ab2/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/a58acf7484e45fa17abd9e64257e50ff/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/a58acf7484e45fa17abd9e64257e50ff/transformed/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/b8db0cf7dfbf93d2f6ad5348c370ac62/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/b8db0cf7dfbf93d2f6ad5348c370ac62/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/6635d4559d313cabc5d86de4efaab377/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/6635d4559d313cabc5d86de4efaab377/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/205ff4ef016c1504a4f97799d6c9e0ee/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/205ff4ef016c1504a4f97799d6c9e0ee/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/57374178d3621fdbcf6777632cc96aac/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/57374178d3621fdbcf6777632cc96aac/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/18400880eed36953d4f49feed5538a69/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/18400880eed36953d4f49feed5538a69/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/a5451a67c5e218bee9466c0db8faa371/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/a5451a67c5e218bee9466c0db8faa371/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/f6f0e5cf4b5722f0f14ce9d735e05087/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/f6f0e5cf4b5722f0f14ce9d735e05087/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/dd0ae56e9d1937cb8a5feeaf5299b7bc/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/dd0ae56e9d1937cb8a5feeaf5299b7bc/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/bf50769a661b3fbfd31ff3c0a875720a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/bf50769a661b3fbfd31ff3c0a875720a/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/812735ca79d8c92124d30781661ea1b5/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/812735ca79d8c92124d30781661ea1b5/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml
+INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml
+		ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml
+		ADDED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/reptilefury/StudioProjects/Animation_2/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/14881d8988856425cb0907fda31e649d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/767a12a0f662314007a1fbbfaec41b1c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/767a12a0f662314007a1fbbfaec41b1c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/a26fff5b6a0f491f9c25454261bc944f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/a26fff5b6a0f491f9c25454261bc944f/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/14881d8988856425cb0907fda31e649d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/14881d8988856425cb0907fda31e649d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/14881d8988856425cb0907fda31e649d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/14881d8988856425cb0907fda31e649d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/14881d8988856425cb0907fda31e649d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/14881d8988856425cb0907fda31e649d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/14881d8988856425cb0907fda31e649d/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/767a12a0f662314007a1fbbfaec41b1c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/767a12a0f662314007a1fbbfaec41b1c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/reptilefury/gradle-7.0.2-bin/wrapper/caches/transforms-3/767a12a0f662314007a1fbbfaec41b1c/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
