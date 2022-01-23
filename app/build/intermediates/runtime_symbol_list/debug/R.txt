@@ -2563,6 +2563,8 @@ int id SHOW_PROGRESS 0x7f08000a
 int id SYM 0x7f08000b
 int id TOP_END 0x7f08000c
 int id TOP_START 0x7f08000d
+int id TextView_Username 0x7f0801fa
+int id TextView_password 0x7f0801fb
 int id UserName_Field 0x7f08000e
 int id accelerate 0x7f08000f
 int id accessibility_action_clickable_span 0x7f080010
@@ -2621,7 +2623,7 @@ int id action_mode_bar 0x7f080044
 int id action_mode_bar_stub 0x7f080045
 int id action_mode_close_button 0x7f080046
 int id action_text 0x7f080047
-int id action_welcome_fragment_to_tic_tac_toe 0x7f080048
+int id action_welcome_fragment_to_home_Page 0x7f0801fc
 int id actions 0x7f080049
 int id activity_chooser_view_content 0x7f08004a
 int id add 0x7f08004b
@@ -3388,6 +3390,7 @@ int string proceed_to_login 0x7f100088
 int string search_menu_title 0x7f100089
 int string status_bar_notification_info_overflow 0x7f10008a
 int string successfully_logged_in 0x7f10008b
+int string username 0x7f10008e
 int string username_or_email 0x7f10008c
 int string welcome_to_tic_tac_toe_game 0x7f10008d
 int style AlertDialog_AppCompat 0x7f110000

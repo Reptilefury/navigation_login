@@ -19,6 +19,24 @@
         android:fontFamily="sans-serif-condensed-medium"
         android:letterSpacing="0.2"
         />
+    <TextView
+        android:id="@+id/TextView_Username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        tools:text="@string/username"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        />
+    <TextView
+        android:id="@+id/TextView_password"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="@string/password"
+        android:textSize="20sp"
+         android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        />
+
+
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

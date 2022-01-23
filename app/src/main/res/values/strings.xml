@@ -9,4 +9,5 @@
     <string name="proceed_to_login">Proceed to Login</string>
     <string name="successfully_logged_in">Successfully logged in</string>
     <string name="ok">Ok</string>
+    <string name="username">Username</string>
 </resources>

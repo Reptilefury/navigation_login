@@ -1,16 +1,18 @@
 package com.reptilefury.animation_2
-
 import android.os.Bundle
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
+import android.widget.Toast
 import androidx.fragment.app.Fragment
+import com.google.android.material.snackbar.Snackbar
 import com.reptilefury.animation_2.databinding.FragmentTicTacToeBinding
-
-class tic_tac_toe:Fragment(){
-    private lateinit var  binding: FragmentTicTacToeBinding
-    var activePlayerX:Boolean = true
+class tic_tac_toe : Fragment() {
+    private lateinit var binding: FragmentTicTacToeBinding
+    var activePlayerX = 0
+    var gameState = arrayListOf(2, 2, 2, 2, 2, 2, 2, 2, 2)
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
@@ -18,7 +20,7 @@ class tic_tac_toe:Fragment(){
     ): View? {
         binding = FragmentTicTacToeBinding.inflate(inflater, container, false)
         val view = binding.root
-        return  view
+        return view
     }
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         val imageView1 = binding.imageView1
@@ -32,25 +34,29 @@ class tic_tac_toe:Fragment(){
         val imageView9 = binding.imageView9
         super.onViewCreated(view, savedInstanceState)
 
-        fun change(imageView: ImageView){
-            imageView.translationY = -2000f
-            if (activePlayerX){
-                imageView.setImageResource(R.drawable.tic_tac_toe_o)
-                activePlayerX = false
-            } else{
-                imageView.setImageResource(R.drawable.tic_tac_toe_x)
-                activePlayerX = true
+        fun change(imageView: ImageView) {
+            val tappedSlot = imageView.tag.toString().toInt()
+            if (gameState[tappedSlot] == 2) {
+                gameState[tappedSlot] = activePlayerX
+                Log.i("Tapped", gameState.toString())
+                Snackbar.make(imageView, "Tapped slot:${tappedSlot}", Snackbar.LENGTH_SHORT).show()
+                imageView.translationY = -2000f
+                if (activePlayerX == 0) {
+                    imageView.setImageResource(R.drawable.tic_tac_toe_o)
+                    activePlayerX = 1
+                } else {
+                    imageView.setImageResource(R.drawable.tic_tac_toe_x)
+                    activePlayerX = 0
+                }
+                imageView.animate().translationYBy(2000f).rotation(1800f).setDuration(500)
             }
-            imageView.animate().translationYBy(2000f).rotation(1800f).setDuration(500)
         }
         imageView1.setOnClickListener {
             change(imageView1)
-       }
-
-     imageView2.setOnClickListener {
-
-         change(imageView2)
-     }
+        }
+        imageView2.setOnClickListener {
+            change(imageView2)
+        }
         imageView3.setOnClickListener {
             change(imageView3)
         }
@@ -72,49 +78,5 @@ class tic_tac_toe:Fragment(){
         imageView9.setOnClickListener {
             change(imageView9)
         }
-
-
-   /*     imageView2.setOnClickListener {
-            imageView2.translationY = -2000f
-            imageView2.setImageResource(R.drawable.tic_tac_toe_o)
-            imageView2.animate().translationYBy(2000f).rotation(1800f).setDuration(500)
-        }*/
-      /*  imageView3.setOnClickListener {
-            imageView3.translationY = -2000f
-            imageView3.setImageResource(R.drawable.tic_tac_toe_o)
-            imageView3.animate().translationYBy(2000f).rotation(1800f).setDuration(500)
-        }*/
-  /*      imageView4.setOnClickListener {
-            imageView4.translationY = -2000f
-            imageView4.setImageResource(R.drawable.tic_tac_toe_o)
-            imageView4.animate().translationYBy(2000f).rotation(1800f).setDuration(500)
-        }*/
-/*        imageView5.setOnClickListener {
-            imageView5.translationY = -2000f
-            imageView5.setImageResource(R.drawable.tic_tac_toe_o)
-            imageView5.animate().translationYBy(2000f).rotation(1800f).setDuration(500)
-        }
-        imageView6.setOnClickListener {
-            imageView6.translationY = -2000f
-            imageView6.setImageResource(R.drawable.tic_tac_toe_o)
-            imageView6.animate().translationYBy(2000f).rotation(1800f).setDuration(500)
-        }
-        imageView7.setOnClickListener {
-            imageView7.translationY = -2000f
-            imageView7.setImageResource(R.drawable.tic_tac_toe_o)
-            imageView7.animate().translationYBy(2000f).rotation(1800f).setDuration(500)
-        }
-
-        imageView8.setOnClickListener {
-            imageView8.translationY = -2000f
-            imageView8.setImageResource(R.drawable.tic_tac_toe_o)
-            imageView8.animate().translationYBy(2000f).rotation(1800f).setDuration(500)
-        }
-
-        imageView9.setOnClickListener {
-            imageView9.translationY = -2000f
-            imageView9.setImageResource(R.drawable.tic_tac_toe_o)
-            imageView9.animate().translationYBy(2000f).rotation(1800f).setDuration(500)
-        }*/
     }
 }

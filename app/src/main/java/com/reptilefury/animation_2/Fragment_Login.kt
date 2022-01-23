@@ -17,13 +17,13 @@ class Fragment_Login:Fragment() {
     ): View? {
         binding = FragmentLoginPageBinding.inflate(inflater, container, false)
         val view = binding.root
-        val userName = binding.UserNameField.text
-        val password  = binding.passwordField.text
+        val userName = binding.UserNameField.text.toString()
+        val password  = binding.passwordField.text.toString()
     //return super.onCreateView(inflater, container, savedInstanceState)
         binding.loginButton.setOnClickListener {
-            Log.i("Username:", "$userName")
-            Log.i("password", "$password")
-            val action = Fragment_LoginDirections.actionLoginPageToWelcomeFragment()
+         /*   Log.i("Username:", "$userName")
+            Log.i("password", "$password")*/
+            val action = Fragment_LoginDirections.actionLoginPageToWelcomeFragment(userName, password)
             findNavController().navigate(action)
         }
          return  view

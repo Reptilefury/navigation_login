@@ -2564,6 +2564,8 @@ id SHOW_PROGRESS
 id SYM
 id TOP_END
 id TOP_START
+id TextView_Username
+id TextView_password
 id UserName_Field
 id accelerate
 id accessibility_action_clickable_span
@@ -2622,7 +2624,7 @@ id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
 id action_text
-id action_welcome_fragment_to_tic_tac_toe
+id action_welcome_fragment_to_home_Page
 id actions
 id activity_chooser_view_content
 id add
@@ -3389,6 +3391,7 @@ string proceed_to_login
 string search_menu_title
 string status_bar_notification_info_overflow
 string successfully_logged_in
+string username
 string username_or_email
 string welcome_to_tic_tac_toe_game
 style AlertDialog_AppCompat

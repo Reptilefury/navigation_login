@@ -42,11 +42,13 @@
         android:label="fragment_welcome_fragment"
         tools:layout="@layout/fragment_welcome_fragment" >
         <action
-            android:id="@+id/action_welcome_fragment_to_tic_tac_toe"
-            app:destination="@id/tic_tac_toe"
-            app:enterAnim="@anim/slide_in_right"
-            app:exitAnim="@anim/slide_out_left"
-            app:popEnterAnim="@anim/slide_in_right"
-            app:popExitAnim="@anim/slide_out_left" />
+            android:id="@+id/action_welcome_fragment_to_home_Page"
+            app:destination="@id/home_Page"
+            app:popUpTo="@id/home_Page"
+            app:popUpToInclusive="true" />
+        <argument
+            android:name="username"
+            app:argType="string" />
+        <argument android:name="password" />
     </fragment>
 </navigation>

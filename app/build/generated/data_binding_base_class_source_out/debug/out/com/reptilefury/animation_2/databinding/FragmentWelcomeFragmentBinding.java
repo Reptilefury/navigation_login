@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.LinearLayout;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
@@ -20,10 +21,20 @@ public final class FragmentWelcomeFragmentBinding implements ViewBinding {
   private final LinearLayout rootView;
 
   @NonNull
+  public final TextView TextViewPassword;
+
+  @NonNull
+  public final TextView TextViewUsername;
+
+  @NonNull
   public final Button okButton;
 
-  private FragmentWelcomeFragmentBinding(@NonNull LinearLayout rootView, @NonNull Button okButton) {
+  private FragmentWelcomeFragmentBinding(@NonNull LinearLayout rootView,
+      @NonNull TextView TextViewPassword, @NonNull TextView TextViewUsername,
+      @NonNull Button okButton) {
     this.rootView = rootView;
+    this.TextViewPassword = TextViewPassword;
+    this.TextViewUsername = TextViewUsername;
     this.okButton = okButton;
   }
 
@@ -54,13 +65,26 @@ public final class FragmentWelcomeFragmentBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.TextView_password;
+      TextView TextViewPassword = ViewBindings.findChildViewById(rootView, id);
+      if (TextViewPassword == null) {
+        break missingId;
+      }
+
+      id = R.id.TextView_Username;
+      TextView TextViewUsername = ViewBindings.findChildViewById(rootView, id);
+      if (TextViewUsername == null) {
+        break missingId;
+      }
+
       id = R.id.ok_button;
       Button okButton = ViewBindings.findChildViewById(rootView, id);
       if (okButton == null) {
         break missingId;
       }
 
-      return new FragmentWelcomeFragmentBinding((LinearLayout) rootView, okButton);
+      return new FragmentWelcomeFragmentBinding((LinearLayout) rootView, TextViewPassword,
+          TextViewUsername, okButton);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
